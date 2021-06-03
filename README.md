@@ -1,2 +1,2 @@
 # Interview-Preparation
-A Repo for enahncing knowledge which would be beneficial for Begineers and Experts both.
+A Repo for preparation for interviews and enhancing knowledge which would be beneficial for Begineers and Experts both.
